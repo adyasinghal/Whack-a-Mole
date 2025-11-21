@@ -68,4 +68,4 @@ whack-a-mole/
 
 [UML Diagram](https://github.com/adyasinghal/Whack-a-Mole/blob/main/UML_Diagram.png)  
 
-### [Technical Documentation]()  
+## [Technical Documentation](https://github.com/adyasinghal/Whack-a-Mole/blob/main/Technical_Doc.md)  
