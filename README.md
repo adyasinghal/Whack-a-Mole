@@ -69,3 +69,11 @@ whack-a-mole/
 [UML Diagram](https://github.com/adyasinghal/Whack-a-Mole/blob/main/UML_Diagram.png)  
 
 ## [Technical Documentation](https://github.com/adyasinghal/Whack-a-Mole/blob/main/Technical_Doc.md)  
+
+## Screenshots
+<img width="902" height="544" alt="image" src="https://github.com/user-attachments/assets/26fff489-e9dc-4f6c-9b10-08d10902dfed" />  
+
+
+
+<img width="897" height="545" alt="image" src="https://github.com/user-attachments/assets/2cdafa9b-55ec-426c-aa2c-2f8a28d5a7a7" />
+
