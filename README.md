@@ -71,9 +71,15 @@ whack-a-mole/
 ## [Technical Documentation](https://github.com/adyasinghal/Whack-a-Mole/blob/main/Technical_Doc.md)  
 
 ## Screenshots
-<img width="902" height="544" alt="image" src="https://github.com/user-attachments/assets/26fff489-e9dc-4f6c-9b10-08d10902dfed" />  
+
+### Game Screen
+Active gameplay showing moles, bombs, and bonus moles appearing in the grid  
+
+<img width="892" height="539" alt="image" src="https://github.com/user-attachments/assets/d3d439f7-05cb-4c1f-a82f-31c369b80463" />
 
 
+### Game Over Screen
+End-game summary displaying final score and high score  
 
 <img width="897" height="545" alt="image" src="https://github.com/user-attachments/assets/2cdafa9b-55ec-426c-aa2c-2f8a28d5a7a7" />
 
