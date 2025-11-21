@@ -66,6 +66,6 @@ whack-a-mole/
 ├── scores.dat (generated after first game) 
 -->
 
-[UML Diagram]()  
+[UML Diagram](https://github.com/adyasinghal/Whack-a-Mole/blob/main/UML_Diagram.png)  
 
 ### [Technical Documentation]()  
